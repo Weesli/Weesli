@@ -8,4 +8,4 @@
 
 
 ## Technologies I Know
-[![My Teklonogy Skills](https://skillicons.dev/icons?i=nodejs,react,svelte,express,tailwindcss,html,css,mongodb,mysql,unity&theme=light)](https://skillicons.dev)
+[![My Teklonogy Skills](https://skillicons.dev/icons?i=nodejs,react,svelte,express,tailwindcss,html,css,mongodb,mysql,unity,redis&theme=light)](https://skillicons.dev)
