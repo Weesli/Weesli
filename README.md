@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- **I am current work with SpigotAPI**
-- ****
-
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Weesli&hide_progress=false)
 
 
