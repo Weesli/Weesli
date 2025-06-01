@@ -2,6 +2,8 @@
 
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Weesli&hide_progress=false)
 
+- I currently working on [RozsDB](https://github.com/Weesli/rozsdb) and [RClaim](https://github.com/Weesli/RClaim)
+
 
 ## Languages I Know
 <p align="left">
