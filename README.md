@@ -30,6 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="50px" height="50px"/>
-
+  <img width="50px" height="50px" alt="image" src="https://github.com/user-attachments/assets/20a0e6c2-4e60-4ec2-b650-05005e276cae" />
 
 </p>
